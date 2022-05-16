@@ -22,10 +22,10 @@
     * ~~[深入理解C/C++中的指针](articles/C++必知必会的知识点/深入理解CC++中的指针.md)~~
     * [详解C++11中的智能指针](articles/C++必知必会的知识点/详解C++11中的智能指针.md)
     * [C++17结构化绑定](articles/C++必知必会的知识点/C++17结构化绑定.md)
-    * [C++必须掌握的pimpl惯用法](articles/C++必知必会的知识点/C++必须掌握的pimpl惯用法.md)
-    * [用Visual Studio调试Linux程序](articles/C++必知必会的知识点/用VisualStudio调试Linux程序.md)
-    * [如何使用Visual Studio管理和阅读开源项目代码](articles/C++必知必会的知识点/如何使用VisualStudio管理和阅读开源项目代码.md)
-    * [利用cmake工具生成Visual Studio工程文件](articles/C++必知必会的知识点/利用cmake工具生成VisualStudio工程文件.md)
+    * ~~[C++必须掌握的pimpl惯用法](articles/C++必知必会的知识点/C++必须掌握的pimpl惯用法.md)~~
+    * ~~[用Visual Studio调试Linux程序](articles/C++必知必会的知识点/用VisualStudio调试Linux程序.md)~~
+    * ~~[如何使用Visual Studio管理和阅读开源项目代码](articles/C++必知必会的知识点/如何使用VisualStudio管理和阅读开源项目代码.md)~~
+    * ~~[利用cmake工具生成Visual Studio工程文件](articles/C++必知必会的知识点/利用cmake工具生成VisualStudio工程文件.md)~~
 
 
 * [多线程](articles/多线程/README.md)
